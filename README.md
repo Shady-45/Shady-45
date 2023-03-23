@@ -6,7 +6,7 @@
 ### <div align="center">I'm Rahul, a Front-End Developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [CryptoWin](https://github.com/Shady-45/CreatorFundingPortal)  
+- 🔭 I’m currently working on [IndieCrypt](https://github.com/Shady-45/cfp)  
   
 
 - 🌱 I’m currently learning NodeJS and MongoDB  
