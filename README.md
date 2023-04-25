@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related Front-End  related technologies  
   
 
-- ⚡ Fun fact: I use CMD over GUI  
+- ⚡ Fun fact: I use CLI over GUI  
   
 
 <br/>  
